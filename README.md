@@ -33,6 +33,16 @@ After unpacking the .py file to the scripts folder, you can find addon in the "O
 Sidebar "Item" tab > "Radial Tools" panel
 
 ### Links
-Gumroad https://gumroad.com/products/KkDcd
+Gumroad 
 
-BlenderArtist https://blenderartists.org/t/radial-instances/1212033
+https://gumroad.com/products/KkDcd
+
+BlenderArtist
+
+https://blenderartists.org/t/radial-instances/1212033
+
+Youtube 
+
+https://youtu.be/x8zbrr5gZeQ 
+
+https://youtu.be/OWRRS8xoBkU
